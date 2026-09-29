@@ -26,7 +26,6 @@ Courses are next. I'm turning years of hands-on building into practical lessons 
 | :-- | :-- | :-- |
 | **Ship It** | A first-person startup simulator. Go from broke bedroom coder to tech titan by solving real code puzzles, hunting bugs in live logs, and surviving 2 a.m. production meltdowns. | 🔨 In development |
 | **Cliosort** | AI-powered content management for any website. Scan your site, discover what matters, and manage it without rebuilding your stack. | 🔨 In development |
-| **Axis** | The next thing I'm working on. | 🔨 In development |
 
 ## 🔁 The loop I ship with
 
