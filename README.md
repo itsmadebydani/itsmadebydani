@@ -33,16 +33,6 @@ Courses are next. I'm turning years of hands-on building into practical lessons 
 
 No tutorials that stop at "hello world." I teach the exact loop I use to take an idea all the way to a shipped, working product, and back again.
 
-## 🎓 Courses (waitlist open)
-
-| Course | Level | You'll learn |
-| :-- | :-- | :-- |
-| **Ship Your First SaaS** | Intermediate | Take an idea to a paying product: architecture, payments, and launch. |
-| **Backend** | Intermediate | APIs, databases, and auth from first principles. |
-| **Distributed Systems** | Advanced | Queues, caching, and scaling patterns drawn from shipping production software. |
-
-👉 **[Join the waitlist](https://itsmadebydani.com)** for early access and launch pricing.
-
 ## 🎬 From the channel
 
 Real builds, real launches, real lessons, the stuff behind the products.
