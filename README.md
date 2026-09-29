@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/itsmadebydani.com-33A8FF?style=for-the-badge&logo=googlechrome&logoColor=080A12&labelColor=080A12)](https://itsmadebydani.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@itsmadebydani-33A8FF?style=for-the-badge&logo=youtube&logoColor=33A8FF&labelColor=080A12)](https://www.youtube.com/@itsmadebydani)
+[![TikTok](https://img.shields.io/badge/TikTok-@itsmadebydani-33A8FF?style=for-the-badge&logo=tiktok&logoColor=33A8FF&labelColor=080A12)](https://www.tiktok.com/@itsmadebydani)
 [![Instagram](https://img.shields.io/badge/Instagram-@itsmadebydani-33A8FF?style=for-the-badge&logo=instagram&logoColor=33A8FF&labelColor=080A12)](https://www.instagram.com/itsmadebydani)
 [![Email](https://img.shields.io/badge/support@itsmadebydani.com-33A8FF?style=for-the-badge&logo=gmail&logoColor=33A8FF&labelColor=080A12)](mailto:support@itsmadebydani.com)
 
