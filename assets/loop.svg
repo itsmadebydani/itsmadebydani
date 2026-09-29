@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="200" viewBox="0 0 1280 200" role="img" aria-label="The loop: Idea, MVP, Launch, Learn, Improve, and back to Idea">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#33A8FF"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="200" rx="20" fill="#080A12"/>
+  <rect x="0.5" y="0.5" width="1279" height="199" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="640" y="40" text-anchor="middle" font-family="'SF Mono', Menlo, Consolas, monospace" font-size="15" fill="#6B7280" letter-spacing="4">THE LOOP I SHIP WITH</text>
+  <g font-family="Sora, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" text-anchor="middle">
+    <g fill="#0F1626" stroke="#33A8FF" stroke-opacity="0.5">
+      <rect x="80"  y="70" width="160" height="56" rx="14"/>
+      <rect x="320" y="70" width="160" height="56" rx="14"/>
+      <rect x="560" y="70" width="160" height="56" rx="14"/>
+      <rect x="800" y="70" width="160" height="56" rx="14"/>
+      <rect x="1040" y="70" width="160" height="56" rx="14"/>
+    </g>
+    <g fill="#FFFFFF" stroke="none">
+      <text x="160"  y="106">Idea</text>
+      <text x="400"  y="106">MVP</text>
+      <text x="640"  y="106">Launch</text>
+      <text x="880"  y="106">Learn</text>
+      <text x="1120" y="106">Improve</text>
+    </g>
+  </g>
+  <g stroke="#33A8FF" stroke-width="2" fill="none" marker-end="url(#arr)">
+    <path d="M244 98H314"/>
+    <path d="M484 98H554"/>
+    <path d="M724 98H794"/>
+    <path d="M964 98H1034"/>
+  </g>
+  <path d="M1120 132 V168 H160 V132" stroke="#33A8FF" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 8" fill="none" marker-end="url(#arr)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>
